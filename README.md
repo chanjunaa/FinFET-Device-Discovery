@@ -11,13 +11,13 @@ As of the date of this release, the available documentation is contained in the 
 
 ## Install
 - Enviroments: Python
-- Requirements:
-  -numpy
-  -pandas
-  -sklearn
-  -xgboost
-  -itertools
-  -matplotlib
+- Requirements:  
+  -numpy  
+  -pandas  
+  -sklearn  
+  -xgboost  
+  -itertools  
+  -matplotlib  
   
 
 
