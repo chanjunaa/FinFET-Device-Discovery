@@ -7,4 +7,17 @@ What is FinFET-Device-Discovery:
 ---
 
 ## Documentation
+As of the date of this release, the available documentation is contained in the FinFET-Device-Discovery/ directory.
+
+## Install
+- Enviroments: Python
+- Requirements:
+  -numpy
+  -pandas
+  -sklearn
+  -xgboost
+  -itertools
+  -matplotlib
+  
+
 
